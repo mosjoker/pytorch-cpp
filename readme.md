@@ -13,6 +13,7 @@ Loading a pytorch model in C++.
 
 ### Install
 a. Download LibTorch [here](https://pytorch.org) and unzip.
+
 b. Clone the repository.
 ```shell
 git clone https://github.com/mosjoker/pytorch-cpp.git 
