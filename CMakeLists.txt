@@ -3,8 +3,6 @@ project(custom_ops)
 
 find_package(Torch REQUIRED)
 
-# OpenCV
-set(OpenCV_DIR "/home/yuyong/soft/opencv-3.4.0/build/install/share/OpenCV")
 find_package(OpenCV REQUIRED)
 
 add_executable(example-app example-app.cpp)

@@ -22,7 +22,7 @@ c. Cmake
 ```shell
 cd pytorch-cpp 
 mkdir build && cd build
-cmake -DCMAKE_PREFIX_PATH=/Users/hankai/code/cpp-pytorch/libtorch ..
+cmake -DCMAKE_PREFIX_PATH=/path/to/libtorch ..
 make
 ```
 
